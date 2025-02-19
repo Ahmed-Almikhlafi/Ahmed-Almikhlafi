@@ -1,11 +1,11 @@
 
 ---
 
-*👋 Hi, I’m Ahmed Almikhlafi*  
+# ***👋 Hi, I’m Ahmed Almikhlafi***  
 
 ---
 
-**🌟 About Me**  
+## **🌟 About Me**  
 👨‍💻 I am an **Artificial Intelligence Engineer**.  
 💡 I am passionate about developing innovative **AI solutions** and building **smart applications**.  
 🌱 I am always eager to learn **new skills** and share **knowledge** with others.  
@@ -14,18 +14,18 @@
 
 ---
 
-**🚀 Tech Stack**  
+## **🚀 Tech Stack**  
 **Languages & Frameworks:** Python, Flutter  
 
 ---
 
-**🎓 Current Work**  
+## **🎓 Current Work**  
 I am currently focused on improving my skills in **artificial intelligence**, including **deep learning**, **computer vision**, and building web pages using **Streamlit**.  
 
 ---
 
-**📫 How to Reach Me**  
-Find all my links and contact details here: [https://linkedin.com/in/ahmed-almikhlafi-99bb55349](#)
+## **📫 How to Reach Me**  
+Find all my links and contact details here: [Linktree/Ahmed Almikhlafi](https://linkedin.com/in/ahmed-almikhlafi-99bb55349)
 
 ---
 
