@@ -1,7 +1,7 @@
 
 ---
 
-**👋 Hi, I’m Ahmed Almikhlafi**  
+*👋 Hi, I’m Ahmed Almikhlafi*  
 
 ---
 
@@ -25,7 +25,7 @@ I am currently focused on improving my skills in **artificial intelligence**, in
 ---
 
 **📫 How to Reach Me**  
-Find all my links and contact details here: [Linktree/yourname](#)
+Find all my links and contact details here: [https://linkedin.com/in/ahmed-almikhlafi-99bb55349](#)
 
 ---
 
